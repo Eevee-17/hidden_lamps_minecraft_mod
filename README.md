@@ -1,0 +1,70 @@
+Requires [Fabric API](https://modrinth.com/mod/fabric-api)
+# All hidden redstone lamps:
+- Oak Wood Redstone Lamp
+- Stripped Oak Wood Redstone Lamp
+- Oak Redstone Lamp
+- Spruce Wood Redstone Lamp
+- Stripped Spruce Wood Redstone Lamp
+- Spruce Redstone Lamp
+- Birch Wood Redstone Lamp
+- Stripped Birch Wood Redstone Lamp
+- Birch Redstone Lamp
+- Jungle Wood Redstone Lamp
+- Stripped Jungle Wood Redstone Lamp
+- Jungle Redstone Lamp
+- Acacia Wood Redstone Lamp
+- Stripped Acacia Wood Redstone Lamp
+- Acacia Redstone Lamp
+- Dark Oak Wood Redstone Lamp
+- Stripped_Dark Oak Wood Redstone Lamp
+- Dark Oak Redstone Lamp
+- Mangrove Wood Redstone Lamp
+- Stripped Mangrove Wood Redstone Lamp
+- Mangrove Redstone Lamp
+- Cherry Wood Redstone Lamp
+- Stripped Cherry Wood Redstone Lamp
+- Cherry Redstone Lamp
+- Bamboo Block Redstone Lamp
+- Stripped Bamboo Block Redstone Lamp
+- Bamboo Redstone Lamp
+- Bamboo Mosaic Redstone Lamp
+- Crimson Hyphae Redstone Lamp
+- Stripped Crimson Hyphae Redstone Lamp
+- Crimson Redstone Lamp
+- Warped Hyphae Redstone Lamp
+- Stripped Warped Hyphae Redstone Lamp
+- Warped Redstone Lamp
+- Stone Redstone Lamp
+- Cobblestone Redstone Lamp
+- Mossy Cobblestone Redstone Lamp
+- Smooth Stone Redstone Lamp
+- Stone Brick Redstone Lamp
+- Mossy Stone Brick Redstone Lamp
+- Granite Redstone Lamp
+- Polished Granite Redstone Lamp
+- Diorite Redstone Lamp
+- Polished Diorite Redstone Lamp
+- Andesite Redstone Lamp
+- Polished Andesite Redstone Lamp
+- Deepslate Redstone Lamp
+- Cobbled Deepslate Redstone Lamp
+- Polished Deepslate Redstone Lamp
+- Deepslate Brick Redstone Lamp
+- Tuff Redstone Lamp
+- Polished Tuff Redstone Lamp
+- Tuff Brick Redstone Lamp
+- Brick Redstone Lamp
+- Mud Brick Redstone Lamp
+- Prismarine Brick Redstone Lamp
+- Netherrack Redstone Lamp
+- Basalt Redstone Lamp
+- Polished Basalt Redstone Lamp
+- Blackstone Redstone Lamp
+- Polished Blackstone Redstone Lamp
+- Polished Blackstone Brick Redstone Lamp
+- End Stone Redstone Lamp
+- End Stone Brick Redstone Lamp
+- Purpur Redstone Lamp
+- Quartz Brick Redstone Lamp
+- Calcite Redstone Lamp
+- Dripstone Redstone Lamp
