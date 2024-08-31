@@ -19,7 +19,7 @@ There are a total of 68 hidden redstone lamps added with this mod.
 - Stripped Acacia Wood Redstone Lamp
 - Acacia Redstone Lamp
 - Dark Oak Wood Redstone Lamp
-- Stripped_Dark Oak Wood Redstone Lamp
+- Stripped Dark Oak Wood Redstone Lamp
 - Dark Oak Redstone Lamp
 - Mangrove Wood Redstone Lamp
 - Stripped Mangrove Wood Redstone Lamp
