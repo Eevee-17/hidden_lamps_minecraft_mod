@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "hiddenlamps",
+  "version": "${version}",
+
+  "name": "Hidden Redstone Lamps",
+  "description": "Adds hidden redstone activated lights!",
+  "authors": [
+    "Eevee 17"
+  ],
+  "contact": {
+    "homepage": "https://www.youtube.com/channel/UCSBajEiA2Spf6PTXdOyIjMg",
+    "sources": "https://github.com/Eevee-17/hidden_lamps_minecraft_mod"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/hiddenlamps/textures/block/oak_redstone_lamp_on.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.eevee.hiddenlamps.HiddenLamps"
+    ],
+    "client": [
+      "net.eevee.hiddenlamps.HiddenLampsClient"
+    ]
+  },
+  "mixins": [
+    "hiddenlamps.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

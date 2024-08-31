@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hiddenlamps:block/mud_brick_redstone_lamp"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "010",
+    "121",
+    "010"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:polished_tuff"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "id": "hiddenlamps:polished_tuff_redstone_lamp"
+  }
+}

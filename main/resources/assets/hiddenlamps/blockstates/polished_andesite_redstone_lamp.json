@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model":  "hiddenlamps:block/polished_andesite_redstone_lamp"
+    },
+    "lit=true": {
+      "model":  "hiddenlamps:block/polished_andesite_redstone_lamp_on"
+    }
+  }
+}

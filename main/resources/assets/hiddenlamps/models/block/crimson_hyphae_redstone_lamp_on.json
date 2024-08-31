@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hiddenlamps:block/crimson_hyphae_redstone_lamp_on",
+    "side": "hiddenlamps:block/crimson_hyphae_redstone_lamp_on"
+  }
+}

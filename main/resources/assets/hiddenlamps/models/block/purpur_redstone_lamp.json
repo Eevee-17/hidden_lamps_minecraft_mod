@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hiddenlamps:block/purpur_redstone_lamp"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hiddenlamps:block/birch_wood_redstone_lamp_on",
+    "side": "hiddenlamps:block/birch_wood_redstone_lamp_on"
+  }
+}

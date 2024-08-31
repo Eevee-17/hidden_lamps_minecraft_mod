@@ -1,0 +1,40 @@
+{
+  "variants": {
+	"axis=x,lit=false": [
+      {
+        "model": "hiddenlamps:block/stripped_spruce_wood_redstone_lamp",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y,lit=false": [
+      {
+        "model": "hiddenlamps:block/stripped_spruce_wood_redstone_lamp"
+      }
+    ],
+    "axis=z,lit=false": [
+      {
+        "model": "hiddenlamps:block/stripped_spruce_wood_redstone_lamp",
+        "x": 90
+      }
+    ],
+	"axis=x,lit=true": [
+      {
+        "model": "hiddenlamps:block/stripped_spruce_wood_redstone_lamp_on",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y,lit=true": [
+      {
+        "model": "hiddenlamps:block/stripped_spruce_wood_redstone_lamp_on"
+      }
+    ],
+    "axis=z,lit=true": [
+      {
+        "model": "hiddenlamps:block/stripped_spruce_wood_redstone_lamp_on",
+        "x": 90
+      }
+    ]
+  }
+}

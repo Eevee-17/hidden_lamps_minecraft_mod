@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hiddenlamps:block/polished_basalt_top_redstone_lamp_on",
+    "side": "hiddenlamps:block/polished_basalt_side_redstone_lamp_on"
+  }
+}

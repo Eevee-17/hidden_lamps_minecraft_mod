@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hiddenlamps:block/deepslate_top_redstone_lamp",
+    "side": "hiddenlamps:block/deepslate_redstone_lamp"
+  }
+}
