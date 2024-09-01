@@ -1,5 +1,7 @@
 Requires [Fabric API](https://modrinth.com/mod/fabric-api)
 
+## [Download (Modrinth)](https://modrinth.com/mod/hidden-redstone-lamps)
+
 There are a total of 68 hidden redstone lamps added with this mod.
 
 # All hidden redstone lamps:
